@@ -1,0 +1,47 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    addressable (2.8.0)
+      public_suffix (>= 2.0.2, < 5.0)
+    date (3.2.0)
+    io-wait (0.1.0)
+    json (2.1.0)
+    mini_portile2 (2.3.0)
+    net-http (0.1.1)
+      net-protocol
+      uri
+    net-protocol (0.1.1)
+      io-wait
+      timeout
+    nokogiri (1.8.2)
+      mini_portile2 (~> 2.3.0)
+    open-uri (0.2.0)
+      stringio
+      time
+      uri
+    public_suffix (4.0.6)
+    rubyzip (2.3.2)
+    stringio (3.0.0)
+    time (0.2.0)
+      date
+    timeout (0.2.0)
+    uri (0.10.1)
+    write_xlsx (0.85.7)
+      rubyzip (>= 1.0.0)
+      zip-zip
+    zip-zip (0.3)
+      rubyzip (>= 1.0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  addressable (= 2.8.0)
+  json (= 2.1.0)
+  net-http
+  nokogiri (= 1.8.2)
+  open-uri
+  write_xlsx (= 0.85.7)
+
+BUNDLED WITH
+   2.1.4
