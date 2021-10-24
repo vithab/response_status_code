@@ -9,16 +9,12 @@ require 'write_xlsx'
 list_urls = File.readlines('fixtures/input_urls.txt').map(&:chomp)
 total_urls = list_urls.count
 
-list_urls[89..103].each_with_index do |url, index|
-  puts "#{index + 1} from #{total_urls}\n\n#{url}"
+list_urls[89..103].each.with_index(1) do |url, index|
+  puts "#{index} from #{total_urls}\n\n#{url}"
   begin
     uri = Addressable::URI.parse(url).normalize
     response = Net::HTTP.get_response(uri)
-    # byebug
-    # begin
-      uri_open = URI.open(uri)
-    # rescue StandardError => e
-    # end
+    uri_open = URI.open(uri)
 
     doc = Nokogiri::HTML(uri_open)
 
@@ -27,7 +23,6 @@ list_urls[89..103].each_with_index do |url, index|
     p response.code
     p response.message
     puts "="*80
-  # rescue SocketError => e
   rescue StandardError => e
     puts "Невозможно загрузить #{url}"
     puts e
