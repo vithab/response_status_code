@@ -1,9 +1,8 @@
-require 'addressable' # https://github.com/sporkmonger/addressable
 require 'json'
-require 'net/http'
 require 'nokogiri'
 require 'open-uri'
 require 'write_xlsx'
+
 require_relative 'lib/response'
 # require 'byebug'
 
@@ -15,12 +14,10 @@ list_urls[4995..5000].each.with_index(1) do |url, index|
   puts "#{index} from #{total_urls}\n\n#{url}"
 
   begin
-    # uri = Addressable::URI.parse(url).normalize
-    # response = Net::HTTP.get_response(uri)
     object = Response.new(url)
     uri = object.get_url_normalize
     response = object.get_response
-    
+
     uri_open = URI.open(uri)
 
     doc = Nokogiri::HTML(uri_open)
