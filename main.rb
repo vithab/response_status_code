@@ -24,26 +24,13 @@ list_urls[4995..5000].each.with_index(1) do |url, index|
     p doc.css('title').map { |item| item.text.chomp }.join('; ')
     p doc.css('h1').map { |item| item.text.chomp }.join('; ')
     
+    code = response.code
+    message = response.message
+
     case response
-    when Net::HTTPInformation
-      code = response.code
-      message = response.message
+    when Net::HTTPInformation, Net::HTTPSuccess, Net::HTTPRedirection
       availability = 'Yes'
-    when Net::HTTPSuccess
-      code = response.code
-      message = response.message
-      availability = 'Yes'
-    when Net::HTTPRedirection
-      code = response.code
-      message = response.message
-      availability = 'Yes'
-    when Net::HTTPClientError
-      code = response.code
-      message = response.message
-      availability = 'No'
-    when Net::HTTPServerError
-      code = response.code
-      message = response.message
+    when Net::HTTPClientError, Net::HTTPServerError
       availability = 'No'
     else
       code = 'No server response'
