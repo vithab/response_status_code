@@ -24,6 +24,8 @@ list_urls[4995..5000].each.with_index(1) do |url, index|
     page = PageParser.new(uri_open)
     p page.get_title
     p page.get_h1
+    p page.get_phone
+    p page.get_phone.class
     # doc = Nokogiri::HTML(uri_open)
     # p doc.css('title').map { |item| item.text.chomp }.join('; ')
     # p doc.css('h1').map { |item| item.text.chomp }.join('; ')
