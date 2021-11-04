@@ -12,14 +12,26 @@ class PageParser
   end
 
   def get_title
-    doc.css('title').map { |item| item.text.chomp }.join('; ')
+    begin
+      doc.css('title').map { |item| item.text.chomp.strip }.join('; ')
+    rescue ArgumentError
+      nil
+    end
   end
 
   def get_h1
-    doc.css('h1').map { |item| item.text.chomp }.join('; ')
+    begin
+      doc.css('h1').map { |item| item.text.chomp.strip }.join('; ')
+    rescue ArgumentError
+      nil
+    end
   end
 
   def get_phone
-    doc.text.scan(PHONE_NUMBER_REGEX).delete_if(&:empty?).uniq.map(&:strip)
+    begin
+      doc.text.scan(PHONE_NUMBER_REGEX).delete_if(&:empty?).uniq.map(&:strip)
+    rescue ArgumentError
+      nil
+    end
   end
 end
