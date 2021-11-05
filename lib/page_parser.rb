@@ -12,6 +12,7 @@ class PageParser
     @doc = Nokogiri::HTML(uri_open)
   end
 
+  # Находим все теги <title>
   def get_title
     begin
       doc.css('title').map { |item| item.text.chomp.strip }.join('; ')
@@ -20,6 +21,7 @@ class PageParser
     end
   end
 
+  # Находим все теги <H1>
   def get_h1
     begin
       doc.css('h1').map { |item| item.text.chomp.strip }.join('; ')
@@ -28,6 +30,8 @@ class PageParser
     end
   end
 
+  # Сканируем html разметку по регулярному выражению,
+  # удаляем пустые значения в массиве, делаем уникальными, очищаем white space
   def get_phone
     begin
       doc.text.scan(PHONE_NUMBER_REGEX).delete_if(&:empty?).uniq.map(&:strip).join(', ')
@@ -36,6 +40,8 @@ class PageParser
     end
   end
 
+  # Сканируем html разметку по регулярному выражению,
+  # удаляем пустые значения в массиве, делаем уникальными, очищаем white space
   def get_email
     begin
       doc.text.scan(VALID_EMAIL_REGEX).delete_if(&:empty?).uniq.map(&:strip).join(', ')
