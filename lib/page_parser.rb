@@ -30,7 +30,7 @@ class PageParser
 
   def get_phone
     begin
-      doc.text.scan(PHONE_NUMBER_REGEX).delete_if(&:empty?).uniq.map(&:strip)
+      doc.text.scan(PHONE_NUMBER_REGEX).delete_if(&:empty?).uniq.map(&:strip).join(', ')
     rescue ArgumentError
       nil
     end
@@ -38,7 +38,7 @@ class PageParser
 
   def get_email
     begin
-      doc.text.scan(VALID_EMAIL_REGEX).delete_if(&:empty?).uniq.map(&:strip)
+      doc.text.scan(VALID_EMAIL_REGEX).delete_if(&:empty?).uniq.map(&:strip).join(', ')
     rescue ArgumentError
       nil
     end
