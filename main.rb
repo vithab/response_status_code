@@ -41,7 +41,6 @@ list_urls[4717..5000].each.with_index(1) do |url, index|
     }
 
     p page
-
     puts "="*80
 
   # TODO: сделать логер для ошибок; date, url, exception title
@@ -49,7 +48,5 @@ list_urls[4717..5000].each.with_index(1) do |url, index|
     puts "Невозможно загрузить #{url}"
     puts e
     puts "="*80
-
-    # next
   end
 end
