@@ -5,10 +5,9 @@ class PageParser
     /\(?\+?[\d]{1,}[\s|-]?\(?[\d]{1,}\)?[\s|-]?[\d]{1,}[\s|-][\d]{1,}[\s|-][\d]{1,4}|$/
   VALID_EMAIL_REGEX = /[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,4}/i
 
-  attr_reader :uri_open, :doc
+  attr_reader :doc
 
   def initialize(uri_open)
-    @uri_open = uri_open
     @doc = Nokogiri::HTML(uri_open)
   end
 
