@@ -22,7 +22,10 @@ list_urls[4717..5000].each.with_index(1) do |url, index|
     case response
     when Net::HTTPInformation, Net::HTTPSuccess, Net::HTTPRedirection
       availability = 'Yes'
-    when Net::HTTPClientError, Net::HTTPServerError
+    # Некоторые сервера сайтов отдают коды 4хх, но при этом сайт доступен
+    when Net::HTTPClientError#, Net::HTTPServerError
+      availability = 'Undefined'
+    else
       availability = 'No'
     end
 
@@ -47,7 +50,7 @@ list_urls[4717..5000].each.with_index(1) do |url, index|
   rescue StandardError => e
     puts "Невозможно загрузить #{url}"
     puts e
-    puts Time.now.strftime("%d-%m-%Y_%H-%M-%S")
+    puts Time.now.strftime("%d-%m-%Y %H:%M:%S")
     puts "="*80
   end
 end
