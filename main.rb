@@ -10,8 +10,9 @@ require 'byebug'
 # list_urls = File.readlines('fixtures/input_urls.txt').map(&:chomp)
 list_urls = File.readlines('fixtures/test.txt').map(&:chomp)
 total_urls = list_urls.count
+pages_array = []
 
-list_urls[4717..5000].each.with_index(1) do |url, index|
+list_urls[4717..4720].each.with_index(1) do |url, index|
   puts "#{index} from #{total_urls}\n\n"
 
   begin
@@ -43,6 +44,8 @@ list_urls[4717..5000].each.with_index(1) do |url, index|
       h1:           page.get_h1,
     }
 
+    pages_array << page
+
     p page
     puts "="*80
 
@@ -54,3 +57,5 @@ list_urls[4717..5000].each.with_index(1) do |url, index|
     puts "="*80
   end
 end
+
+p pages_array
