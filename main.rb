@@ -66,7 +66,12 @@ worksheet = workbook.add_worksheet
 HEADERS = ['URL', 'Код ответа сервера', 'Статус', 'Доступность', 
            'Телефон', 'Email', 'Наименование', 'Заголовок']
 
-worksheet.write_row(0, 0, HEADERS)
+format_header = workbook.add_format
+format_header.set_bold
+format_header.set_bg_color('yellow')
+format_header.set_align('center')
+
+worksheet.write_row(0, 0, HEADERS, format_header)
 
 pages_array.each.with_index(1) do |row, index|
   array_values = row.map { |_k, v| v }
