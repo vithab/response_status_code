@@ -58,4 +58,14 @@ list_urls[4717..4720].each.with_index(1) do |url, index|
   end
 end
 
-p pages_array
+# p pages_array
+
+workbook = WriteXLSX.new("file_name.xlsx")
+worksheet = workbook.add_worksheet
+
+pages_array.each.with_index(1) do |row, index|
+  array_values = row.map { |_k, v| v }
+  worksheet.write_row(index, 0, array_values)
+end
+
+workbook.close
