@@ -63,6 +63,11 @@ end
 workbook = WriteXLSX.new("file_name.xlsx")
 worksheet = workbook.add_worksheet
 
+HEADERS = ['URL', 'Код ответа сервера', 'Статус', 'Доступность', 
+           'Телефон', 'Email', 'Наименование', 'Заголовок']
+
+worksheet.write_row(0, 0, HEADERS)
+
 pages_array.each.with_index(1) do |row, index|
   array_values = row.map { |_k, v| v }
   worksheet.write_row(index, 0, array_values)
