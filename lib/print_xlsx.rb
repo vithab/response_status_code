@@ -21,7 +21,9 @@ class PrintXlsx
       array_values = row.map { |_k, v| v }
       worksheet.write_row(index, 0, array_values)
     end
-
+    
+    # Устанавливаем центрирование текста в столбцах 2, 3, 4 (отсчёт с 0)
+    worksheet.set_column(1, 3, 0, align_column_format)
     workbook.close
   end
 
@@ -32,9 +34,14 @@ class PrintXlsx
     workbook.add_format(
       border: 1,
       bold: 1,
-      bg_color: 'yellow',
+      bg_color: '#7FFFD4',
       align: 'center',
       valign: 'vcenter'
     )
+  end
+  
+  # Устанавливаем центрирование текста (горизонтально / вертикально)
+  def align_column_format
+    workbook.add_format(align: 'center', valign: 'vcenter')
   end  
 end
