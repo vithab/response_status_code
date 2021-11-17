@@ -1,10 +1,10 @@
 require 'json'
 require 'nokogiri'
 require 'open-uri'
-require 'write_xlsx'
 
 require_relative 'lib/response'
 require_relative 'lib/page_parser'
+require_relative 'lib/print_xlsx'
 require 'byebug'
 
 # list_urls = File.readlines('fixtures/input_urls.txt').map(&:chomp)
@@ -58,24 +58,9 @@ list_urls[4717..4720].each.with_index(1) do |url, index|
   end
 end
 
-# p pages_array
-
-workbook = WriteXLSX.new("file_name.xlsx")
-worksheet = workbook.add_worksheet
-
 HEADERS = ['URL', 'Код ответа сервера', 'Статус', 'Доступность', 
            'Телефон', 'Email', 'Наименование', 'Заголовок']
 
-format_header = workbook.add_format
-format_header.set_bold
-format_header.set_bg_color('yellow')
-format_header.set_align('center')
-
-worksheet.write_row(0, 0, HEADERS, format_header)
-
-pages_array.each.with_index(1) do |row, index|
-  array_values = row.map { |_k, v| v }
-  worksheet.write_row(index, 0, array_values)
-end
-
-workbook.close
+xlsx = PrintXlsx.new(pages_array, HEADERS)
+xlsx.set_headers
+xlsx.write_file
