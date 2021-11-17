@@ -62,5 +62,4 @@ HEADERS = ['URL', 'Код ответа сервера', 'Статус', 'Дос�
            'Телефон', 'Email', 'Наименование', 'Заголовок']
 
 xlsx = PrintXlsx.new(pages_array, HEADERS)
-xlsx.set_headers
 xlsx.write_file
