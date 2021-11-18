@@ -6,7 +6,7 @@ class PrintXlsx
   # Принимаем в конструктор массив страниц, и заголовков для xlsx файла
   def initialize(pages_array, headers = [])
     @pages_array = pages_array
-    @workbook = WriteXLSX.new("file_name.xlsx")
+    @workbook = WriteXLSX.new("./xlsx/file_#{Time.now.strftime("%d-%m-%Y_%H-%M-%S")}.xlsx")
     @worksheet = workbook.add_worksheet
     @headers = headers
   end
