@@ -54,7 +54,7 @@ list_urls[3717..4720].each.with_index(1) do |url, index|
   rescue StandardError => e
     puts "Невозможно загрузить #{url}"
     puts e
-    puts Time.now.strftime("%d-%m-%Y %H:%M:%S")
+    puts Time.now.strftime("%d-%m-%Y_%H:%M:%S")
     puts "="*80
   end
 end
