@@ -5,6 +5,7 @@ require 'open-uri'
 require_relative 'lib/response'
 require_relative 'lib/page_parser'
 require_relative 'lib/print_xlsx'
+require_relative 'lib/logger'
 require 'byebug'
 
 # list_urls = File.readlines('fixtures/input_urls.txt').map(&:chomp)
@@ -12,7 +13,7 @@ list_urls = File.readlines('fixtures/test.txt').map(&:chomp)
 total_urls = list_urls.count
 pages_array = []
 
-list_urls[3717..4720].each.with_index(1) do |url, index|
+list_urls[4717..4720].each.with_index(1) do |url, index|
   puts "#{index} from #{total_urls}\n\n"
 
   begin
@@ -52,9 +53,10 @@ list_urls[3717..4720].each.with_index(1) do |url, index|
 
   # TODO: сделать логер для ошибок; date, url, exception title
   rescue StandardError => e
-    puts "Невозможно загрузить #{url}"
-    puts e
-    puts Time.now.strftime("%d-%m-%Y_%H:%M:%S")
+    logger = Logger.new
+    logger.log(url, e)
+
+    puts "\n"
     puts "="*80
   end
 end
@@ -62,5 +64,5 @@ end
 HEADERS = ['URL', 'Код ответа сервера', 'Статус', 'Доступность', 
            'Телефон', 'Email', 'Наименование', 'Заголовок']
 
-xlsx = PrintXlsx.new(pages_array, HEADERS)
-xlsx.write_file
+# xlsx = PrintXlsx.new(pages_array, HEADERS)
+# xlsx.write_file
