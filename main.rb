@@ -13,7 +13,7 @@ list_urls = File.readlines('fixtures/test.txt').map(&:chomp)
 total_urls = list_urls.count
 pages_array = []
 
-list_urls[4717..4720].each.with_index(1) do |url, index|
+list_urls.first(1000).each.with_index(1) do |url, index|
   puts "#{index} from #{total_urls}\n\n"
 
   begin
@@ -26,9 +26,9 @@ list_urls[4717..4720].each.with_index(1) do |url, index|
       when Net::HTTPInformation, Net::HTTPSuccess, Net::HTTPRedirection
         'Yes'
       # Некоторые сервера сайтов отдают коды 4хх, но при этом сайт доступен
-      when Net::HTTPClientError#, Net::HTTPServerError
+      when Net::HTTPClientError
         'Undefined'
-      else
+      else # Net::HTTPServerError
         'No'
       end
 
@@ -43,7 +43,7 @@ list_urls[4717..4720].each.with_index(1) do |url, index|
       phone:        page.get_phone,
       email:        page.get_email,
       title:        page.get_title,
-      h1:           page.get_h1,
+      h1:           page.get_h1
     }
 
     pages_array << page
@@ -55,8 +55,9 @@ list_urls[4717..4720].each.with_index(1) do |url, index|
   rescue StandardError => e
     logger = Logger.new
     logger.log(url, e)
+    logger.write(url, e)
 
-    puts "\n"
+    puts
     puts "="*80
   end
 end
@@ -64,5 +65,5 @@ end
 HEADERS = ['URL', 'Код ответа сервера', 'Статус', 'Доступность', 
            'Телефон', 'Email', 'Наименование', 'Заголовок']
 
-# xlsx = PrintXlsx.new(pages_array, HEADERS)
-# xlsx.write_file
+xlsx = PrintXlsx.new(pages_array, HEADERS)
+xlsx.write_file
