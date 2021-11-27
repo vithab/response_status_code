@@ -11,19 +11,31 @@ class PageParser
     @doc = Nokogiri::HTML(uri_open)
   end
 
-  # Находим все теги <title>
+  # Находим все теги <title>, заменяем кодировку на utf-8
   def get_title
     begin
-      doc.css('title').map { |item| item.text.chomp.strip }.join('; ')
+      title = doc.css('title').map { |item| item.text.chomp.strip }.join('; ')
+      
+      unless title.valid_encoding?
+        title.encode!( 'UTF-8', 'Windows-1251', invalid: :replace )
+      end
+
+      title
     rescue ArgumentError
       nil
     end
   end
 
-  # Находим все теги <H1>
+  # Находим все теги <H1>, заменяем кодировку на utf-8
   def get_h1
     begin
-      doc.css('h1').map { |item| item.text.chomp.strip }.join('; ')
+      h1 = doc.css('h1').map { |item| item.text.chomp.strip }.join('; ')
+      
+      unless h1.valid_encoding?
+        h1.encode!( 'UTF-8', 'Windows-1251', invalid: :replace )
+      end
+
+      h1
     rescue ArgumentError
       nil
     end
