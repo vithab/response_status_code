@@ -16,11 +16,7 @@ class PageParser
     begin
       title = doc.css('title').map { |item| item.text.chomp.strip }.join('; ')
       
-      unless title.valid_encoding?
-        title.encode!( 'UTF-8', 'Windows-1251', invalid: :replace )
-      end
-
-      title
+      valid_encoding(title)
     rescue ArgumentError
       nil
     end
@@ -31,11 +27,7 @@ class PageParser
     begin
       h1 = doc.css('h1').map { |item| item.text.chomp.strip }.join('; ')
       
-      unless h1.valid_encoding?
-        h1.encode!( 'UTF-8', 'Windows-1251', invalid: :replace )
-      end
-
-      h1
+      valid_encoding(h1)
     rescue ArgumentError
       nil
     end
@@ -59,5 +51,16 @@ class PageParser
     rescue ArgumentError
       nil
     end
+  end
+
+  # TODO: Сделать приватный метод для определения и смены кодировки.
+  private
+
+  def valid_encoding(tag_text)
+    unless tag_text.valid_encoding?
+      tag_text.encode!( 'UTF-8', 'Windows-1251', invalid: :replace )
+    end
+
+    tag_text
   end
 end
