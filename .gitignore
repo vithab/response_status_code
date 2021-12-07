@@ -1,7 +1,7 @@
 .byebug_history
 
-log/*
+log/*.txt
 !log
 
-xlsx/*
+xlsx/*.xlsx
 !xlsx
