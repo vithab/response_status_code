@@ -1,0 +1,635 @@
+http://03chocolate.nethouse.ru/ --> redirection forbidden: https://03chocolate.nethouse.ru/ -> http://03chocolate.ru/ --> 28-11-2021_16:01:11
+http://100lichnyi.ru/ --> Failed to open TCP connection to 100lichnyi.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:01:12
+http://100zakusok.ru/ --> Failed to open TCP connection to 100zakusok.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:01:13
+http://101ud.ru/ --> Failed to open TCP connection to 101ud.ru:80 (getaddrinfo: Temporary failure in name resolution) --> 28-11-2021_16:01:14
+http://12prazdnikov.ru/ --> Failed to open TCP connection to 12prazdnikov.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:01:15
+http://12месяцев-нижний-новгород.рф/ --> SSL_connect returned=1 errno=0 state=error: certificate verify failed (unable to get local issuer certificate) --> 28-11-2021_16:01:16
+http://12месяцев-новосибирск.рф/ --> SSL_connect returned=1 errno=0 state=error: certificate verify failed (unable to get local issuer certificate) --> 28-11-2021_16:01:16
+http://1612.ru/ --> 404 Not Found --> 28-11-2021_16:01:16
+http://1xleb.ru/gde-kupit/ --> 404 Not Found --> 28-11-2021_16:01:30
+http://20.ratimir.ru/ --> Failed to open TCP connection to 20.ratimir.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:01:30
+http://202035.pulscen.ru/ --> 403 Forbidden --> 28-11-2021_16:01:32
+http://21sokol.ru/ --> 403 Forbidden --> 28-11-2021_16:01:32
+http://24cake.ru/ --> 403 Forbidden --> 28-11-2021_16:01:35
+http://2524.biznet.su/ --> Failed to open TCP connection to 2524.biznet.su:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:01:41
+http://2geese.ru/ --> Failed to open TCP connection to 2geese.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:01:42
+http://2gusya.ru/ --> Failed to open TCP connection to 2gusya.ru:80 (getaddrinfo: Temporary failure in name resolution) --> 28-11-2021_16:01:43
+http://300-000.ru/ --> 503 Service Unavailable --> 28-11-2021_16:01:43
+http://3257171.ru/ --> Failed to open TCP connection to 3257171.ru:80 (getaddrinfo: Temporary failure in name resolution) --> 28-11-2021_16:01:44
+http://33pingvina.ru/torgovaya_set/torgovye_tochki_33_pingvina/centralnyj_federalnyj_okrug/staryj_oskol/letnyaya_telezhka1/ --> 404 Not Found --> 28-11-2021_16:01:47
+http://33pingvina.ru/torgovaya_set/torgovye_tochki_33_pingvina/dalnevostochnyj_federalnyj_okrug/habarovsk/kinoteatr_oskar/ --> 404 Not Found --> 28-11-2021_16:01:48
+http://33pingvina.ru/torgovaya_set/torgovye_tochki_33_pingvina/privolzhskij_federalnyj_okrug/sarov/tc_rio/ --> 404 Not Found --> 28-11-2021_16:01:48
+http://33piroga.com/ --> Failed to open TCP connection to 33piroga.com:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:01:48
+http://341737.ru/ --> Failed to open TCP connection to 341737.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:01:51
+http://365detox.ru/ --> end of file reached --> 28-11-2021_16:01:59
+http://3dtour82.ru/ --> 403 Forbidden --> 28-11-2021_16:02:03
+http://43kedr.ru/ --> Failed to open TCP connection to 43kedr.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:02:03
+http://4opexa.ru/ --> Failed to open TCP connection to 4opexa.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:02:05
+http://4taun.ru/ --> Failed to open TCP connection to 4taun.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:02:05
+http://5cup.ru/ --> Failed to open TCP connection to 5cup.ru:80 (getaddrinfo: Temporary failure in name resolution) --> 28-11-2021_16:02:08
+http://62svetofor.ru/ --> Failed to open TCP connection to 62svetofor.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:02:09
+http://6-vkusov.ru/ --> SSL_connect returned=1 errno=0 state=error: certificate verify failed (unable to get local issuer certificate) --> 28-11-2021_16:02:15
+http://7chashek.com/ --> Failed to open TCP connection to 7chashek.com:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:02:16
+http://7kofenanedele.ru/ --> Failed to open TCP connection to 7kofenanedele.ru:80 (getaddrinfo: Temporary failure in name resolution) --> 28-11-2021_16:02:17
+http://901-666.ru/ --> Failed to open TCP connection to 901-666.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:02:26
+http://9ostrovov.ru/ --> redirection forbidden: https://9ostrovov.ru/ -> http://www.9ostrovov.ru/ --> 28-11-2021_16:02:30
+http://abiproduct.ru/ --> SSL_connect returned=1 errno=0 state=error: certificate verify failed (unable to get local issuer certificate) --> 28-11-2021_16:02:32
+http://absolyut64.ru/ --> Failed to open TCP connection to absolyut64.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:02:33
+http://adamant154.ru/ --> 403 Forbidden --> 28-11-2021_16:02:39
+http://adamant-nk.ru/ --> Failed to open TCP connection to adamant-nk.ru:80 (getaddrinfo: No address associated with hostname) --> 28-11-2021_16:02:39
+http://adept.ru/ooo-novgorodskiy-bekon/ --> 404 Not Found --> 28-11-2021_16:02:39
+http://adress-happy.ru/ --> end of file reached --> 28-11-2021_16:02:42
+http://adriafood.ru/ --> Failed to open TCP connection to adriafood.ru:80 (getaddrinfo: Temporary failure in name resolution) --> 28-11-2021_16:02:42
+http://aelita.elink48.ru/ --> execution expired --> 28-11-2021_16:03:42
+http://aevip.ru/ --> Failed to open TCP connection to aevip.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:03:44
+http://afanasevmarket.ru/ --> 404 Not Found --> 28-11-2021_16:03:44
+http://af-optina.com/buy --> 404 Not Found --> 28-11-2021_16:03:46
+http://agriko-kolh59d.pulscen.ru/ --> 403 Forbidden --> 28-11-2021_16:03:48
+http://agri-products-supplier-and-manufacturer-79.business.site/ --> 404 Not Found --> 28-11-2021_16:03:49
+http://agro-bim.pulscen.ru/ --> 403 Forbidden --> 28-11-2021_16:03:50
+http://agrogs.ru/ --> Failed to open TCP connection to agrogs.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:03:56
+http://agromurman.ru/ --> Failed to open TCP connection to agromurman.ru:80 (getaddrinfo: No address associated with hostname) --> 28-11-2021_16:04:00
+http://agromurman.ru/trade --> Failed to open TCP connection to agromurman.ru:80 (getaddrinfo: No address associated with hostname) --> 28-11-2021_16:04:00
+http://agromurman.ru/trade/ --> Failed to open TCP connection to agromurman.ru:80 (getaddrinfo: No address associated with hostname) --> 28-11-2021_16:04:00
+http://agroprompark-kazan.ru/ --> execution expired --> 28-11-2021_16:05:00
+http://agrotom.ru/ --> 403 Forbidden --> 28-11-2021_16:05:02
+http://aifmarket.ru/ --> 503 Service Temporarily Unavailable --> 28-11-2021_16:05:07
+http://akitasushi.ru/ --> 503 Service Unavailable --> 28-11-2021_16:05:16
+http://akkond-novoperedelkino.ru/ --> 404 Not Found --> 28-11-2021_16:05:22
+http://alamina05.ru/ --> Failed to open TCP connection to alamina05.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:05:28
+http://alekma.ru/ --> 403 Forbidden --> 28-11-2021_16:05:35
+http://alenasuzdal.ru/ --> Failed to open TCP connection to alenasuzdal.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:05:38
+http://alfatrade-rf.ru/ --> Failed to open TCP connection to alfatrade-rf.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:05:48
+http://alkoru.com/ --> Failed to open TCP connection to alkoru.com:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:05:56
+http://alkoru.com/pekarnya5/ --> Failed to open TCP connection to alkoru.com:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:05:56
+http://alkovar-rf.ru/ --> 403 Forbidden --> 28-11-2021_16:05:56
+http://alltai.ru/ --> Failed to open TCP connection to alltai.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:05:57
+http://alltrd.ru/ --> 403 Forbidden --> 28-11-2021_16:05:58
+http://allur-kazan.ru/ --> Failed to open TCP connection to allur-kazan.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:05:58
+http://aloha.com.ru/ --> Failed to open TCP connection to aloha.com.ru:80 (Connection refused - connect(2) for "aloha.com.ru" port 80) --> 28-11-2021_16:06:02
+http://alokozay.net/ --> Failed to open TCP connection to alokozay.net:80 (Connection refused - connect(2) for "alokozay.net" port 80) --> 28-11-2021_16:06:04
+http://alpen32.ru/ --> Failed to open TCP connection to alpen32.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:06:04
+http://altay-lekar.ru/ --> SSL_connect returned=1 errno=0 state=error: certificate verify failed (self signed certificate) --> 28-11-2021_16:06:26
+http://altay-rodnik.ru/ --> Failed to open TCP connection to altay-rodnik.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:06:30
+http://altay-zdrav.ru/ --> 403 Forbidden --> 28-11-2021_16:06:32
+http://altayzolotoyzapaszdorovya.ru/ --> Failed to open TCP connection to altayzolotoyzapaszdorovya.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:06:32
+http://alt-proviant.tiu.ru/ --> 404 Not Found --> 28-11-2021_16:06:37
+http://amamaznaet.ru/ --> Failed to open TCP connection to amamaznaet.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:06:45
+http://amberhoney.ru/ --> execution expired --> 28-11-2021_16:07:47
+http://amzin.org/ --> SSL_connect returned=1 errno=0 state=error: certificate verify failed (unable to get local issuer certificate) --> 28-11-2021_16:08:08
+http://anais-konditerskaya.com/ --> Failed to open TCP connection to anais-konditerskaya.com:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:08:08
+http://anega-plyus-1.pulscen.ru/ --> 403 Forbidden --> 28-11-2021_16:08:21
+http://angaria.ru/excursion.html --> 404 Not Found --> 28-11-2021_16:08:22
+http://ankarus-2016.pulscen.ru/ --> 403 Forbidden --> 28-11-2021_16:08:33
+http://ankomkolbasa.ru/ --> 403 Forbidden --> 28-11-2021_16:08:33
+http://annafrancevna.ru/ --> Failed to open TCP connection to annafrancevna.ru:80 (getaddrinfo: Temporary failure in name resolution) --> 28-11-2021_16:08:34
+http://annushka-ussur.ru/ --> Failed to open TCP connection to annushka-ussur.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:08:34
+http://aomoloko.com/ --> SSL_connect returned=1 errno=0 state=error: certificate verify failed (self signed certificate) --> 28-11-2021_16:08:49
+http://apatityhleb.com/ --> Failed to open TCP connection to apatityhleb.com:80 (getaddrinfo: Temporary failure in name resolution) --> 28-11-2021_16:08:49
+http://apicentr.com/ --> Failed to open TCP connection to apicentr.com:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:09:08
+http://apis.net.ru/ --> Failed to open TCP connection to apis.net.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:09:12
+http://apollinaria.pulscen.ru/ --> 403 Forbidden --> 28-11-2021_16:09:15
+http://appetitus.spb.ru/ --> 404 Not Found --> 28-11-2021_16:09:25
+http://aprilcafe.rest/ --> Failed to open TCP connection to aprilcafe.rest:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:09:25
+http://arbena74.ru/ --> Failed to open TCP connection to arbena74.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:09:32
+http://arb-pr.ru/ --> Failed to open TCP connection to arb-pr.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:09:32
+http://arenda-kofemashin-nsk.tilda.ws/ --> 404 Not Found --> 28-11-2021_16:09:37
+http://arenda-kofemashiny.spb.ru/ --> Failed to open TCP connection to arenda-kofemashiny.spb.ru:80 (Connection refused - connect(2) for "arenda-kofemashiny.spb.ru" port 80) --> 28-11-2021_16:09:39
+http://arhgid.ru/catalog/pitanie/bary/na-msk/ --> 404 Not Found --> 28-11-2021_16:09:45
+http://arhgid.ru/catalog/pitanie/kafe/kush-pod/ --> 404 Not Found --> 28-11-2021_16:09:46
+http://arhona.com/ --> Failed to open TCP connection to arhona.com:80 (getaddrinfo: No address associated with hostname) --> 28-11-2021_16:09:46
+http://arhona.com/kontakty/ --> Failed to open TCP connection to arhona.com:80 (getaddrinfo: No address associated with hostname) --> 28-11-2021_16:09:46
+http://arishmae.ru/ --> Failed to open TCP connection to arishmae.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:09:50
+http://aroma-one.ru/ --> Failed to open TCP connection to aroma-one.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:10:01
+http://aromauss.ru/ --> Failed to open TCP connection to aromauss.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:10:07
+http://arpek.ru/ --> Failed to open TCP connection to arpek.ru:80 (getaddrinfo: Temporary failure in name resolution) --> 28-11-2021_16:10:07
+http://artypizza.odhost.ru/ --> Failed to open TCP connection to artypizza.odhost.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:10:32
+http://arvika.su/ --> Failed to open TCP connection to arvika.su:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:10:32
+http://arxat.ru/ --> 403 Forbidden --> 28-11-2021_16:10:32
+http://asadogrillhouse.ru/ --> Failed to open TCP connection to asadogrillhouse.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:10:33
+http://asiafusion.ru/ --> 403 Forbidden --> 28-11-2021_16:10:36
+http://asia-house.ru/ --> Failed to open TCP connection to asia-house.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:10:36
+http://askofe.ru/ --> Failed to open TCP connection to askofe.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:10:50
+http://asylguzin.nethouse.ru/ --> redirection forbidden: https://asylguzin.nethouse.ru/ -> http://asylguzin.ru/ --> 28-11-2021_16:11:08
+http://atlantida56.ru/ --> Failed to open TCP connection to atlantida56.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:11:13
+http://atl-plus.ru/ --> 500 Internal Server Error --> 28-11-2021_16:11:15
+http://atort.ru/ --> execution expired --> 28-11-2021_16:12:16
+http://atriarussia.ru/ --> Failed to open TCP connection to atriarussia.ru:80 (getaddrinfo: Temporary failure in name resolution) --> 28-11-2021_16:12:16
+http://attolo.ru/ --> Failed to open TCP connection to attolo.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:12:19
+http://auchan.ru/ --> 401 Unauthorized --> 28-11-2021_16:12:19
+http://aukazak.ru/ --> Failed to open TCP connection to aukazak.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:12:20
+http://avelook.ru/ --> Failed to open TCP connection to avelook.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:12:23
+http://aybouquet.spb.ru/ --> Failed to open TCP connection to aybouquet.spb.ru:80 (Connection refused - connect(2) for "aybouquet.spb.ru" port 80) --> 28-11-2021_16:12:33
+http://ayu.ru/ --> Failed to open TCP connection to ayu.ru:80 (getaddrinfo: Temporary failure in name resolution) --> 28-11-2021_16:12:34
+http://ayur-ufa.ru/ --> Failed to open TCP connection to ayur-ufa.ru:80 (getaddrinfo: Temporary failure in name resolution) --> 28-11-2021_16:12:34
+http://azbukact.pulscen.ru/ --> 403 Forbidden --> 28-11-2021_16:12:37
+http://azbukavkusa56.ru/ --> Failed to open TCP connection to azbukavkusa56.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:12:37
+http://azkofe.business.site/ --> 404 Not Found --> 28-11-2021_16:12:48
+http://azovbroiler.pulscen.ru/ --> 403 Forbidden --> 28-11-2021_16:12:48
+http://azs-avtomir.ru/ --> Failed to open TCP connection to azs-avtomir.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:12:48
+http://b12veganshop.ru/ --> Failed to open TCP connection to b12veganshop.ru:80 (getaddrinfo: Temporary failure in name resolution) --> 28-11-2021_16:12:49
+http://badamfrukt.ru/ --> Failed to open TCP connection to badamfrukt.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:12:54
+http://baikal.coffee/ --> Failed to open TCP connection to baikal.coffee:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:13:00
+http://baikal-deti.com/ --> Failed to open TCP connection to baikal-deti.com:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:13:00
+http://baikal-ra.com/ --> Failed to open TCP connection to baikal-ra.com:80 (getaddrinfo: Temporary failure in name resolution) --> 28-11-2021_16:13:06
+http://baikal-vorkuta.ru/ --> 404 Not Found --> 28-11-2021_16:13:07
+http://baitur.ru/ --> 403 Forbidden --> 28-11-2021_16:13:09
+http://bakaleya96.ru/ --> 403 Forbidden --> 28-11-2021_16:13:09
+http://bake-a-cake.ru/ --> Failed to open TCP connection to bake-a-cake.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:13:11
+http://bakernn.pulscen.ru/ --> 403 Forbidden --> 28-11-2021_16:13:12
+http://bakery-4539.business.site/ --> 404 Not Found --> 28-11-2021_16:13:14
+http://bakery-4539.business.site/?utm_medium=referral&utm_source=gmb --> 404 Not Found --> 28-11-2021_16:13:14
+http://bakery-street.com/ --> Failed to open TCP connection to bakery-street.com:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:15:55
+http://balt29.ru/ --> Failed to open TCP connection to balt29.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:15:57
+http://bamboo86.ru/ --> Failed to open TCP connection to bamboo86.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:16:02
+http://bananamama.online/ --> Failed to open TCP connection to bananamama.online:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:16:02
+http://banka-meda.ru/ --> 403 Forbidden --> 28-11-2021_16:16:03
+http://banzay.su/ --> Failed to open TCP connection to banzay.su:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:16:05
+http://barashka-agro.ru/ --> Failed to open TCP connection to barashka-agro.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:16:16
+http://baravi-t.com/ --> SSL_connect returned=1 errno=0 state=error: certificate verify failed (unable to get local issuer certificate) --> 28-11-2021_16:16:16
+http://barista.bitrix24.site/ --> 410 Gone --> 28-11-2021_16:16:30
+http://barnaul.barsnsk.com/ --> Failed to open TCP connection to barnaul.barsnsk.com:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:16:33
+http://barosso.ru/ --> Failed to open TCP connection to barosso.ru:80 (getaddrinfo: No address associated with hostname) --> 28-11-2021_16:16:33
+http://barrel-beer-store.business.site/ --> 404 Not Found --> 28-11-2021_16:16:33
+http://bashagroprod.pulscen.ru/ --> 403 Forbidden --> 28-11-2021_16:16:34
+http://bash-honey-bal.ru/ --> Failed to open TCP connection to bash-honey-bal.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:16:35
+http://bashmyastorg.ru/ --> Failed to open TCP connection to bashmyastorg.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:16:36
+http://bashyort.ru/ --> Failed to open TCP connection to bashyort.ru:80 (getaddrinfo: Temporary failure in name resolution) --> 28-11-2021_16:16:39
+http://baton-milfei.ru/milfei/ --> 404 Not Found --> 28-11-2021_16:16:50
+http://bazamix.ru/ --> SSL_connect returned=1 errno=0 state=error: certificate verify failed (unable to get local issuer certificate) --> 28-11-2021_16:16:55
+http://bazaoptperm.ru/ --> Failed to open TCP connection to bazaoptperm.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:16:55
+http://bazarbuy.ru/ --> 301 Moved Permanently (Invalid Location URI) --> 28-11-2021_16:16:55
+http://baza-rosko.ru/ --> Failed to open TCP connection to baza-rosko.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:16:56
+http://bazar-tver.ru/ --> Failed to open TCP connection to bazar-tver.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:16:56
+http://bb.net.ru/ --> Failed to open TCP connection to bb.net.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:16:57
+http://bebeautylab.ru/ --> Failed to open TCP connection to bebeautylab.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:16:59
+http://beertroll.ru/ --> Failed to open TCP connection to beertroll.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:17:11
+http://bejsprof.ru/ --> Failed to open TCP connection to bejsprof.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:17:12
+http://bekon12.ru/ --> Failed to open TCP connection to bekon12.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:17:15
+http://belagroprod.ru/ --> Failed to open TCP connection to belagroprod.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:17:15
+http://bel-akatsiya.com.ua/ --> Failed to open TCP connection to bel-akatsiya.com.ua:80 (getaddrinfo: Temporary failure in name resolution) --> 28-11-2021_16:17:16
+http://belevskie.mycloudshop.ru/ --> 404 Not Found --> 28-11-2021_16:17:18
+http://belgorod-meat.pulscen.ru/ --> 403 Forbidden --> 28-11-2021_16:17:21
+http://belinastudio.ru/ --> Failed to open TCP connection to belinastudio.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:17:23
+http://beliymed.ru/ --> Failed to open TCP connection to beliymed.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:17:24
+http://bel-kolbas.ru/ --> Failed to open TCP connection to bel-kolbas.ru:80 (getaddrinfo: Temporary failure in name resolution) --> 28-11-2021_16:17:25
+http://belorusfirm.ru/ --> Failed to open TCP connection to belorusfirm.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:17:32
+http://bentowok.ru/shops --> 404 Not Found --> 28-11-2021_16:17:39
+http://berriesgoji.ru/ --> Failed to open TCP connection to berriesgoji.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:17:43
+http://bfc23.ru/ --> Failed to open TCP connection to bfc23.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:17:58
+http://bigtorg-firm.ru/ --> Failed to open TCP connection to bigtorg-firm.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:18:14
+http://bingosushi.ru/ --> Net::ReadTimeout --> 28-11-2021_16:20:21
+http://biobrot.ru/ --> HTTP redirection loop: http://biobrot.ru/ --> 28-11-2021_16:20:24
+http://bionaturproduct.ru/ --> 404  --> 28-11-2021_16:20:27
+http://bionova-shop.ru/ --> SSL_connect returned=1 errno=0 state=error: certificate verify failed (unspecified certificate verification error) --> 28-11-2021_16:20:28
+http://biscuittomsk.wixsite.com/ --> 404 Not Found --> 28-11-2021_16:20:37
+http://biskvit22.ru/ --> Failed to open TCP connection to biskvit22.ru:80 (Connection refused - connect(2) for "biskvit22.ru" port 80) --> 28-11-2021_16:20:41
+http://bisqwit.ru/ --> Failed to open TCP connection to bisqwit.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:20:45
+http://bizon-sushi.ru/ --> Failed to open TCP connection to bizon-sushi.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:20:52
+http://blackice27.ru/ --> Failed to open TCP connection to blackice27.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:20:54
+http://blagofood.ru/ --> Failed to open TCP connection to blagofood.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:20:58
+http://blanje.ru/ --> Failed to open TCP connection to blanje.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:21:06
+http://blasercafe.ru/ --> 403 Forbidden --> 28-11-2021_16:21:06
+http://blinnayagorka.ru/ --> Failed to open TCP connection to blinnayagorka.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:21:08
+http://blinolybov.ru/ --> Failed to open TCP connection to blinolybov.ru:80 (getaddrinfo: No address associated with hostname) --> 28-11-2021_16:21:08
+http://blonder-bear.ru/ --> Failed to open TCP connection to blonder-bear.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:21:09
+http://bodrero.ru/ --> Failed to open TCP connection to bodrero.ru:80 (getaddrinfo: Temporary failure in name resolution) --> 28-11-2021_16:21:29
+http://bodryichay.ru/ --> Failed to open TCP connection to bodryichay.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:21:29
+http://bon-ami.ru/ --> Failed to open TCP connection to bon-ami.ru:80 (getaddrinfo: Temporary failure in name resolution) --> 28-11-2021_16:21:37
+http://bonappetit-tver.ru/ --> Failed to open TCP connection to bonappetit-tver.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:21:39
+http://bonfishop.ru/ --> 521  --> 28-11-2021_16:21:45
+http://bonfoods.ru/ --> Failed to open TCP connection to bonfoods.ru:80 (getaddrinfo: No address associated with hostname) --> 28-11-2021_16:21:45
+http://bonjour-city.com/ --> execution expired --> 28-11-2021_16:22:46
+http://bonnaty.ru/ --> Failed to open TCP connection to bonnaty.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:22:47
+http://boolyboom.ru/ --> end of file reached --> 28-11-2021_16:22:48
+http://boolyboom.ru/pages/1127-adres-magaziny --> end of file reached --> 28-11-2021_16:22:49
+http://booshe.ru/ --> 404  --> 28-11-2021_16:22:51
+http://bossanova.yapokupayu.ru/ --> 403 Forbidden --> 28-11-2021_16:22:57
+http://boulangesochi.business.site/ --> 404 Not Found --> 28-11-2021_16:22:59
+http://bread.hlebosoul.com/ --> Failed to open TCP connection to bread.hlebosoul.com:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:23:15
+http://bread18.com/ --> Failed to open TCP connection to bread18.com:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:23:15
+http://breadcrumbs.shop/ --> Failed to open TCP connection to breadcrumbs.shop:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:23:15
+http://bread-store.ru/ --> 404 Not Found --> 28-11-2021_16:23:20
+http://breadstories.ru/ --> HTTP redirection loop: http://breadstories.ru/ --> 28-11-2021_16:23:20
+http://brusnika-market.ru/ --> Failed to open TCP connection to brusnika-market.ru:80 (getaddrinfo: Temporary failure in name resolution) --> 28-11-2021_16:23:31
+http://bryanskholod.pulscen.ru/ --> 403 Forbidden --> 28-11-2021_16:23:40
+http://bublikbakery.ru/ --> execution expired --> 28-11-2021_16:24:42
+http://bulangebakery.ru/ --> 404 Not Found --> 28-11-2021_16:26:05
+http://bulka74.chelyabinsk-gid.info/ --> Failed to open TCP connection to bulka74.chelyabinsk-gid.info:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:26:05
+http://bulkakhv.ru/ --> Failed to open TCP connection to bulkakhv.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:26:06
+http://bulochka.pekarnya/ --> Failed to open TCP connection to bulochka.pekarnya:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:26:12
+http://bulochnaya-kompaniya.ru/ --> HTTP redirection loop: http://bulochnaya-kompaniya.ru/ --> 28-11-2021_16:26:15
+http://bunchfflowers.ru/ --> Failed to open TCP connection to bunchfflowers.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:26:19
+http://butcher-dz.ru/ --> Failed to open TCP connection to butcher-dz.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:26:31
+http://butcherjr.ru/ --> Failed to open TCP connection to xn--80apggebzc1gxb.xn--p1ai:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:26:32
+http://butera-coffee.ru/ --> Failed to open TCP connection to butera-coffee.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:26:33
+http://b-zone38.ru/ --> SSL_connect returned=1 errno=0 state=error: certificate verify failed (unable to get local issuer certificate) --> 28-11-2021_16:26:39
+http://cafe.commeaparis.ru/ --> Failed to open TCP connection to cafe.commeaparis.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:26:40
+http://cafe-anderson.ru/cafe/anderson_at --> redirection forbidden: https://cafe-anderson.ru/cafe/anderson_at -> http://cafe-anderson.ru:443/cafe/anderson_at/ --> 28-11-2021_16:26:48
+http://cafe-anderson.ru/cafe/anderson-v-formule-kino-tts-festival --> redirection forbidden: https://cafe-anderson.ru/cafe/anderson-v-formule-kino-tts-festival -> http://cafe-anderson.ru:443/cafe/anderson-v-formule-kino-tts-festival/ --> 28-11-2021_16:26:48
+http://cafe-anderson.ru/cafe/anderson-v-nizhnem-novogorode --> redirection forbidden: https://cafe-anderson.ru/cafe/anderson-v-nizhnem-novogorode -> http://cafe-anderson.ru:443/cafe/anderson-v-nizhnem-novogorode/ --> 28-11-2021_16:26:48
+http://cafe-anderson.ru/cafe/anderson-v-noginske/ --> 404 Not Found --> 28-11-2021_16:26:49
+http://cafe-anderson.ru/cafe/fathers --> redirection forbidden: https://cafe-anderson.ru/cafe/fathers -> http://cafe-anderson.ru:443/cafe/fathers/ --> 28-11-2021_16:26:49
+http://cafe-anderson.ru/cafe/okeaniya/ --> 404 Not Found --> 28-11-2021_16:26:54
+http://cafe-anderson.ru/msk/cafe --> redirection forbidden: https://cafe-anderson.ru/msk/cafe -> http://cafe-anderson.ru:443/msk/cafe/ --> 28-11-2021_16:26:55
+http://cafebezzabot.ru/ --> Failed to open TCP connection to cafebezzabot.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:26:56
+http://cafebriz.ru/ --> 403 Forbidden --> 28-11-2021_16:26:56
+http://cafe-district.ru/ --> 403 Forbidden --> 28-11-2021_16:26:57
+http://cafe-fortecia.ru/ --> Failed to open TCP connection to cafe-fortecia.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:26:59
+http://cafe-la-vash.ru/ --> Failed to open TCP connection to cafe-la-vash.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:27:15
+http://cafeogonek.ru/ --> 403 Forbidden --> 28-11-2021_16:27:16
+http://cafe-orion.ru/ --> 500 Internal Server Error --> 28-11-2021_16:27:17
+http://cafesad.ru/ --> 403 Forbidden --> 28-11-2021_16:27:19
+http://cafe-sarmat.ru/ --> 403 Forbidden --> 28-11-2021_16:27:19
+http://caffeclub.ru/ --> 403 Forbidden --> 28-11-2021_16:27:22
+http://caffitaly.moscow/ --> Failed to open TCP connection to caffitaly.moscow:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:27:25
+http://cake.sunwind.ru/ --> execution expired --> 28-11-2021_16:28:27
+http://cakeacademy.ru/ --> Failed to open TCP connection to cakeacademy.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:28:27
+http://cakefabrique.ru/ --> 503 Service Temporarily Unavailable --> 28-11-2021_16:28:30
+http://cakepnz.ru/ --> 403 Forbidden --> 28-11-2021_16:28:31
+http://cakepopshop.ru/ --> 403 Forbidden --> 28-11-2021_16:28:31
+http://cakepower.ru/ --> HTTP redirection loop: http://cakepower.ru/ --> 28-11-2021_16:28:31
+http://cake-shop.spb.ru/ --> redirection forbidden: https://cake-shop.spb.ru/ -> http://www.cake-shop.spb.ru/ --> 28-11-2021_16:28:32
+http://cakewithyou.ru/ --> Failed to open TCP connection to cakewithyou.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:28:33
+http://cambridgeweightplan.ru/ --> Failed to open TCP connection to cambridgeweightplan.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:28:34
+http://candice-cake.ru/ --> HTTP redirection loop: http://candice-cake.ru/ --> 28-11-2021_16:28:35
+http://candyfess-spb.nethouse.ru/ --> redirection forbidden: https://candyfess-spb.nethouse.ru/ -> http://candyfess-uz.ru/ --> 28-11-2021_16:28:36
+http://candy-mood.com/ --> HTTP redirection loop: http://candy-mood.com/ --> 28-11-2021_16:28:36
+http://capucino.ru/nashi-kafe/kapuchino-tokio --> 404 Not Found --> 28-11-2021_16:28:43
+http://carabotaidoma.ru/ --> Failed to open TCP connection to carabotaidoma.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:28:44
+http://carabotaidoma.ru/лавка-чая-и-кофе-в-челябинске/ --> Failed to open TCP connection to carabotaidoma.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:28:44
+http://casafarina.ru/ --> Failed to open TCP connection to casafarina.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:28:56
+http://caviarbest.ru/ --> Failed to open TCP connection to caviarbest.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:29:05
+http://cc-union.ru/ --> 403 Forbidden --> 28-11-2021_16:29:06
+http://cdodmotoviliha.perm.ru/ --> 403 Forbidden --> 28-11-2021_16:29:06
+http://centrum-trk.ru/shops/5Mgurman.html --> 404 Not Found --> 28-11-2021_16:29:54
+http://chack-chack.ru/ --> HTTP redirection loop: http://chack-chack.ru/ --> 28-11-2021_16:29:56
+http://chai1.ru/ --> Failed to open TCP connection to chai1.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:30:01
+http://chaicom.ru/ --> SSL_connect returned=1 errno=0 state=error: certificate verify failed (unable to get local issuer certificate) --> 28-11-2021_16:30:08
+http://chainataun.ru/ --> Failed to open TCP connection to chainataun.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:30:11
+http://chainii-kot.business.site/ --> 404 Not Found --> 28-11-2021_16:30:12
+http://chainik-rostov.com/ --> Failed to open TCP connection to chainik-rostov.com:80 (getaddrinfo: No address associated with hostname) --> 28-11-2021_16:30:12
+http://chairai.ru/ --> Failed to open TCP connection to chairai.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:30:13
+http://chay111.ru/ --> Failed to open TCP connection to chay111.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:30:28
+http://chaycoffeesky.ru/ --> 403 Forbidden --> 28-11-2021_16:30:29
+http://chaye.ru/ --> Net::ReadTimeout --> 28-11-2021_16:32:29
+http://chaykof24.ru/ --> Failed to open TCP connection to chaykof24.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:32:31
+http://chay-lu.ru/ --> Failed to open TCP connection to chay-lu.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:32:31
+http://cheatmeal.org/ --> Failed to open TCP connection to cheatmeal.org:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:32:33
+http://chebanu-as.pulscen.ru/ --> 403 Forbidden --> 28-11-2021_16:32:33
+http://cheboksari.sushibank.ru/ --> 403 Forbidden --> 28-11-2021_16:32:33
+http://cheburechnaya63.samaragid24.ru/ --> Failed to open TCP connection to cheburechnaya63.samaragid24.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:32:33
+http://cheburechnaya63-1.samaragid24.ru/ --> Failed to open TCP connection to cheburechnaya63-1.samaragid24.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:32:33
+http://cheburechnaya63-2.samaragid24.ru/ --> Failed to open TCP connection to cheburechnaya63-2.samaragid24.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:32:33
+http://cheesecakeclub.ru/ --> HTTP redirection loop: http://cheesecakeclub.ru/ --> 28-11-2021_16:32:38
+http://cheesecoffee.ru/ --> Failed to open TCP connection to cheesecoffee.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:32:38
+http://cheese-exhibition.ru/ --> Failed to open TCP connection to cheese-exhibition.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:32:38
+http://cheesevin.ru/ --> Failed to open TCP connection to cheesevin.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:32:40
+http://chel.stolle.ru/ --> HTTP redirection loop: http://chel.stolle.ru/ --> 28-11-2021_16:32:41
+http://chel.stolle.ru/address/kafe-pirogovaya-na-lenina --> HTTP redirection loop: http://chel.stolle.ru/address/kafe-pirogovaya-na-lenina --> 28-11-2021_16:32:41
+http://chelcoff.ru/ --> Failed to open TCP connection to chelcoff.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:32:42
+http://chelpivo.com/ --> 403 Forbidden --> 28-11-2021_16:32:47
+http://cherkizovo.ru/ --> redirection forbidden: https://cherkizovo.ru/ -> http://www.cherkizovo.ru/ --> 28-11-2021_16:32:52
+http://chernika55.ru/ --> Failed to open TCP connection to chernika55.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:32:53
+http://cherries-bakery.com/ --> Failed to open TCP connection to cherries-bakery.com:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:32:55
+http://chinateacup.ru/ --> Failed to open TCP connection to chinateacup.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:33:00
+http://chistogorsk.ru/ --> 403 Forbidden --> 28-11-2021_16:33:02
+http://chitinka-chita.ru/ --> Connection reset by peer --> 28-11-2021_16:33:04
+http://choco-di.ru/ --> Failed to open TCP connection to choco-di.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:33:10
+http://chocodream75.ru/ --> Failed to open TCP connection to chocodream75.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:33:10
+http://chocolate-house.ru/ --> Failed to open TCP connection to chocolate-house.ru:80 (getaddrinfo: Temporary failure in name resolution) --> 28-11-2021_16:33:14
+http://chocolatemaster.ru/ --> redirection forbidden: https://chocolatemaster.ru/ -> http://www.chocolatemaster.ru/ --> 28-11-2021_16:33:15
+http://chocolatevk.ru/ --> buffer error --> 28-11-2021_16:33:17
+http://chocolife-td.ru/ --> Failed to open TCP connection to chocolife-td.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:33:20
+http://chocolu.ru/ --> Failed to open TCP connection to chocolu.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:33:22
+http://chocotime.ru/ --> HTTP redirection loop: http://chocotime.ru/ --> 28-11-2021_16:33:31
+http://choko-shop72.ru/ --> Failed to open TCP connection to choko-shop72.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:33:33
+http://chpt.ru/pokupateljam/gde-kupit/ --> 404 Not Found --> 28-11-2021_16:33:35
+http://chubar-ab.pulscen.ru/ --> 403 Forbidden --> 28-11-2021_16:33:36
+http://chudodesert.ru/ --> Connection reset by peer --> 28-11-2021_16:33:36
+http://churroshouse.ru/ --> Failed to open TCP connection to churroshouse.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:33:39
+http://cinnabon-omsk.ru/ --> Failed to open TCP connection to cinnabon-omsk.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:33:43
+http://cityferma24.ru/ --> Failed to open TCP connection to cityferma24.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:33:46
+http://city-retail.ru/ --> Failed to open TCP connection to city-retail.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:33:46
+http://classiques.ru/ --> 404 Not Found --> 28-11-2021_16:33:48
+http://clever-fish.ru/ --> 404 Not Found --> 28-11-2021_16:33:48
+http://clickpzk.com/ --> 404 Not Found --> 28-11-2021_16:33:48
+http://clubchadao.ru/ --> Failed to open TCP connection to clubchadao.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:33:50
+http://club-mate.nn.ru/ --> Failed to open TCP connection to club-mate.nn.ru:80 (getaddrinfo: Temporary failure in name resolution) --> 28-11-2021_16:33:52
+http://cobratoxan.com/ --> 500 Internal Server Error --> 28-11-2021_16:33:56
+http://cococoffee.ru/ --> HTTP redirection loop: http://cococoffee.ru/ --> 28-11-2021_16:33:56
+http://cofeev.ru/ --> 404 Not Found --> 28-11-2021_16:34:07
+http://coffeclub48.ru/ --> Failed to open TCP connection to coffeclub48.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:34:17
+http://coffeda.ru/ --> 404 Not Found --> 28-11-2021_16:34:20
+http://coffee-3.ru/ --> Failed to open TCP connection to coffee-3.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:34:21
+http://coffee45.ru/ --> Failed to open TCP connection to coffee45.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:34:21
+http://coffee96.ru/ --> 503 Service Temporarily Unavailable --> 28-11-2021_16:34:26
+http://coffeebulka.restoru.ru/ --> SSL_connect returned=1 errno=0 state=error: certificate verify failed (certificate has expired) --> 28-11-2021_16:34:30
+http://coffeecars.ru/ --> Failed to open TCP connection to coffeecars.ru:80 (getaddrinfo: Temporary failure in name resolution) --> 28-11-2021_16:34:33
+http://coffeefortea.ru/ --> 403 Forbidden --> 28-11-2021_16:34:47
+http://coffeeinbox.ru/ --> 404 Site Not Found --> 28-11-2021_16:34:52
+http://coffeemax.ru/ --> Failed to open TCP connection to coffeemax.ru:80 (getaddrinfo: Temporary failure in name resolution) --> 28-11-2021_16:35:00
+http://coffeemegusta.ru/ --> 403 Forbidden --> 28-11-2021_16:35:00
+http://coffeemouse.ru/ --> Failed to open TCP connection to coffeemouse.ru:80 (getaddrinfo: No address associated with hostname) --> 28-11-2021_16:35:00
+http://coffeenonstop.com/ --> HTTP redirection loop: http://coffeenonstop.com/ --> 28-11-2021_16:35:03
+http://coffeenonstop.com/franchise --> HTTP redirection loop: http://coffeenonstop.com/franchise --> 28-11-2021_16:35:03
+http://coffeeowlspb.ru/ --> HTTP redirection loop: http://coffeeowlspb.ru/ --> 28-11-2021_16:35:04
+http://coffeeperu.ru/ --> Failed to open TCP connection to coffeeperu.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:35:04
+http://coffeerusshop.ru/ --> Failed to open TCP connection to coffeerusshop.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:35:08
+http://coffee-shop-1020.business.site/ --> 404 Not Found --> 28-11-2021_16:35:12
+http://coffee-shop24.ru/ --> 404 Not Found --> 28-11-2021_16:35:12
+http://coffeestea.com/ --> 403 Forbidden --> 28-11-2021_16:35:16
+http://coffeestout.ru/ --> Failed to open TCP connection to coffeestout.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:35:17
+http://coffee-therapy.ru/ --> Failed to open TCP connection to coffee-therapy.ru:80 (Connection refused - connect(2) for "coffee-therapy.ru" port 80) --> 28-11-2021_16:35:23
+http://coffeevaroff.ru/ --> Failed to open TCP connection to coffeevaroff.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:35:26
+http://coffee-wash.ru/ --> Failed to open TCP connection to coffee-wash.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:35:27
+http://coffeewithyou.ru/ --> Failed to open TCP connection to coffeewithyou.ru:80 (getaddrinfo: Temporary failure in name resolution) --> 28-11-2021_16:35:28
+http://coffetea.ga/ --> execution expired --> 28-11-2021_16:36:33
+http://coffetoria.ru/ --> SSL_connect returned=1 errno=0 state=error: certificate verify failed (self signed certificate) --> 28-11-2021_16:36:33
+http://cofix.ru/ --> SSL_connect returned=1 errno=0 state=error: certificate verify failed (unable to get local issuer certificate) --> 28-11-2021_16:36:36
+http://cofntea.ru/ --> Failed to open TCP connection to cofntea.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:36:36
+http://cokolniki.com/ --> end of file reached --> 28-11-2021_16:36:39
+http://cokolniki.com/diksi-sokolniki --> end of file reached --> 28-11-2021_16:36:40
+http://conaffetto.spb.ru/ --> Failed to open TCP connection to conaffetto.spb.ru:80 (Connection refused - connect(2) for "conaffetto.spb.ru" port 80) --> 28-11-2021_16:36:46
+http://conceptcakes.ru/ --> Failed to open TCP connection to conceptcakes.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:36:47
+http://cone-franchise.ru/ --> Failed to open TCP connection to cone-franchise.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:36:49
+http://confectionery-122.business.site/ --> 404 Not Found --> 28-11-2021_16:36:50
+http://confil.ru/ --> redirection forbidden: https://confil.ru/ -> http://www.confil.ru/ --> 28-11-2021_16:36:53
+http://cook.carsto.ru/ --> Failed to open TCP connection to cook.carsto.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:36:53
+http://cook22.ru/ --> execution expired --> 28-11-2021_16:37:53
+http://corpdidi.blizko.ru/ --> 403 Forbidden --> 28-11-2021_16:37:54
+http://corpdidi.blizko.ru/contacts --> 403 Forbidden --> 28-11-2021_16:37:54
+http://corporate.baltika.ru/ --> SSL_connect returned=1 errno=0 state=error: certificate verify failed (unable to get local issuer certificate) --> 28-11-2021_16:38:01
+http://cosmetics-prof.ru/ --> execution expired --> 28-11-2021_16:39:01
+http://coynarcoffee.ru/ --> Failed to open TCP connection to coynarcoffee.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:39:01
+http://craft-chips.ru/ --> Failed to open TCP connection to craft-chips.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:39:02
+http://craft-moloko.ru/ --> Failed to open TCP connection to craft-moloko.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:39:06
+http://crazy-coffee.ru/ --> Failed to open TCP connection to crazy-coffee.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:39:06
+http://creammed.tilda.ws/ --> 404 Not Found --> 28-11-2021_16:39:07
+http://crimea.tehnovend.ru/ --> SSL_connect returned=1 errno=0 state=error: certificate verify failed (unspecified certificate verification error) --> 28-11-2021_16:39:09
+http://crocuskirov.pulscen.ru/ --> 403 Forbidden --> 28-11-2021_16:39:11
+http://croissant-cafe.ru/ --> 503 Service Unavailable --> 28-11-2021_16:39:11
+http://croissant-dore.com/ --> 403 Forbidden --> 28-11-2021_16:39:11
+http://cr-roastery.ru/ --> Failed to open TCP connection to cr-roastery.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:39:13
+http://cruasso.ru/ --> 403 Forbidden --> 28-11-2021_16:39:13
+http://csappetita.ru/ --> Failed to open TCP connection to csappetita.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:39:14
+http://cultcoffee.ru/ --> HTTP redirection loop: http://cultcoffee.ru/ --> 28-11-2021_16:39:15
+http://cultura.coffee/ --> Failed to open TCP connection to cultura.coffee:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:39:15
+http://cvetichocolate.ru/ --> Failed to open TCP connection to cvetichocolate.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:39:17
+http://c-w-t.ru/ --> Failed to open TCP connection to c-w-t.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:39:17
+http://daeda.pro/ --> Failed to open TCP connection to daeda.pro:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:39:18
+http://dairyculture.ru/ --> SSL_connect returned=1 errno=0 state=error: certificate verify failed (unable to get local issuer certificate) --> 28-11-2021_16:39:24
+http://dairy-supplier-12.business.site/ --> 404 Not Found --> 28-11-2021_16:39:24
+http://dariarmenii.com/ --> Failed to open TCP connection to dariarmenii.com:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:39:36
+http://darikarelii.ru/ --> 403 Forbidden --> 28-11-2021_16:39:36
+http://darimtea.com/ --> Failed to open TCP connection to darimtea.com:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:39:37
+http://dari-yamala.ru/ --> 404 Not Found --> 28-11-2021_16:39:40
+http://darnicakurgan.business.site/ --> 404 Not Found --> 28-11-2021_16:39:42
+http://dary-ararata.ru/ --> 403 Forbidden --> 28-11-2021_16:39:42
+http://dary-rb.ru/ --> Failed to open TCP connection to dary-rb.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:39:47
+http://davlatov-1.pulscen.ru/ --> 403 Forbidden --> 28-11-2021_16:39:52
+http://davlekanovskie.ru/ --> HTTP redirection loop: http://davlekanovskie.ru/ --> 28-11-2021_16:39:52
+http://day-coffee.business.site/ --> 404 Not Found --> 28-11-2021_16:39:52
+http://dayran-td.com/ --> 403 Forbidden --> 28-11-2021_16:39:52
+http://ddmarket.ru/ --> 403 Forbidden --> 28-11-2021_16:39:54
+http://dedushka-choi.wix.com/ --> 404 Not Found --> 28-11-2021_16:39:54
+http://dedushka-choi.wix.com/fabrika --> 404 Not Found --> 28-11-2021_16:39:54
+http://degustea.com/ --> 404 Not Found --> 28-11-2021_16:39:55
+http://delazzo.ru/ --> Failed to open TCP connection to delazzo.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:39:56
+http://delice63.ru/ --> Failed to open TCP connection to delice63.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:39:57
+http://delta-fruit.ru/ --> Failed to open TCP connection to delta-fruit.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:40:11
+http://de-pompadour-salon.com/ --> Failed to open TCP connection to de-pompadour-salon.com:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:40:14
+http://desantzdorovya.ru/ --> 404 Not Found --> 28-11-2021_16:40:15
+http://desertiki.a5.ru/ --> 404 Not Found --> 28-11-2021_16:40:16
+http://deserttver.ru/ --> Failed to open TCP connection to deserttver.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:40:22
+http://desiatka.business.site/ --> 404 Not Found --> 28-11-2021_16:40:22
+http://df-ru.ru/ --> 403 Forbidden --> 28-11-2021_16:40:23
+http://diabet161.ru/ --> 403 Forbidden --> 28-11-2021_16:40:24
+http://diabetplus.ru/ --> Failed to open TCP connection to diabetplus.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:40:28
+http://dieta-saratov.nethouse.ru/ --> redirection forbidden: https://dieta-saratov.nethouse.ru/ -> http://xn----7sbbakhhx3dsjjg.xn--p1ai/ --> 28-11-2021_16:40:37
+http://diettorg.ru/ --> Failed to open TCP connection to diettorg.ru:80 (getaddrinfo: Temporary failure in name resolution) --> 28-11-2021_16:40:40
+http://dimaestri.wix.com/ --> 404 Not Found --> 28-11-2021_16:40:42
+http://discount-plus.su/ --> Failed to open TCP connection to discount-plus.su:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:40:50
+http://dkulinar.ru/ --> Failed to open TCP connection to dkulinar.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:40:56
+http://dla-tebya.ru/ --> Failed to open TCP connection to dla-tebya.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:40:56
+http://dnarodov.obnin.sk/ --> Failed to open TCP connection to dnarodov.obnin.sk:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:40:57
+http://dobrawcafe.ru/ --> SSL_connect returned=1 errno=0 state=error: certificate verify failed (self signed certificate) --> 28-11-2021_16:40:59
+http://dobriebulki.ru/ --> Failed to open TCP connection to dobriebulki.ru:80 (getaddrinfo: No address associated with hostname) --> 28-11-2021_16:41:00
+http://dobripekar.ru/ --> Failed to open TCP connection to dobripekar.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:41:00
+http://dobripekar.ru/proizvodstvo --> Failed to open TCP connection to dobripekar.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:41:00
+http://dobro-les.ru/ --> SSL_connect returned=1 errno=0 state=error: certificate verify failed (certificate has expired) --> 28-11-2021_16:41:04
+http://dobropek-tort.ru/ --> 404 Not Found --> 28-11-2021_16:41:06
+http://dobrotort.ru/ --> HTTP redirection loop: http://dobrotort.ru/ --> 28-11-2021_16:41:07
+http://dobryhleb.in29.ru/ --> 404 Not Found --> 28-11-2021_16:41:08
+http://dobryicoffee.ru/ --> HTTP redirection loop: http://dobryicoffee.ru/ --> 28-11-2021_16:41:08
+http://dobrynin.pulscen.ru/ --> 403 Forbidden --> 28-11-2021_16:41:11
+http://dobryninsky.ru/ --> SSL_connect returned=1 errno=0 state=error: certificate verify failed (unable to get local issuer certificate) --> 28-11-2021_16:41:11
+http://dochkisinochki.ru/ --> 403 Forbidden --> 28-11-2021_16:41:15
+http://doctordom-spb.ru/ --> redirection forbidden: https://doctordom-spb.ru/ -> http://rillshoes.ru/ --> 28-11-2021_16:41:15
+http://dolce-latte.business.site/ --> 404 Not Found --> 28-11-2021_16:41:17
+http://domashniy-myasnoy.ru/ --> execution expired --> 28-11-2021_16:42:21
+http://domashnyaya-vypechka-smak.pulscen.ru/ --> 403 Forbidden --> 28-11-2021_16:42:21
+http://dom-brys.ru/ --> Failed to open TCP connection to dom-brys.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:42:23
+http://dom-eda-sochi.ru/ --> Failed to open TCP connection to dom-eda-sochi.ru:80 (getaddrinfo: No address associated with hostname) --> 28-11-2021_16:42:23
+http://domkuh12.ru/ --> Failed to open TCP connection to domkuh12.ru:80 (getaddrinfo: Temporary failure in name resolution) --> 28-11-2021_16:42:32
+http://dom-kulinariya.ru/ --> 403 Forbidden --> 28-11-2021_16:42:32
+http://domodhleb.ru/ --> Failed to open TCP connection to domodhleb.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:42:35
+http://domovenok89.ru/ --> 403 Forbidden --> 28-11-2021_16:42:36
+http://dompek.com/ --> end of file reached --> 28-11-2021_16:42:38
+http://dompirogof.ru/ --> Failed to open TCP connection to dompirogof.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:42:39
+http://domsushi64.ru/ --> Failed to open TCP connection to domsushi64.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:42:43
+http://domtk.com/ --> execution expired --> 28-11-2021_16:43:43
+http://dom-vkusa.ru/ --> HTTP redirection loop: http://dom-vkusa.ru/ --> 28-11-2021_16:43:44
+http://donner-fresh-food-market.business.site/ --> 404 Not Found --> 28-11-2021_16:43:48
+http://don-opt.ru/ --> 403 Forbidden --> 28-11-2021_16:43:49
+http://donskoygurman.ru/ --> Failed to open TCP connection to donskoygurman.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:43:51
+http://dontrad.ru/ --> 503 Service Unavailable --> 28-11-2021_16:43:51
+http://dosecoffee.org/ --> Failed to open TCP connection to dosecoffee.org:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:43:59
+http://dostavka-gurme.com/ --> 503 Service Temporarily Unavailable --> 28-11-2021_16:44:09
+http://d-pekar.ru/ --> Failed to open TCP connection to d-pekar.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:44:16
+http://dpelmeni.ru/ --> Failed to open TCP connection to dpelmeni.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:44:16
+http://druzhbanarodov.ru/ --> 308 Permanent Redirect --> 28-11-2021_16:44:24
+http://druzhilin.ru/ --> Failed to open TCP connection to druzhilin.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:44:24
+http://dunkindonutsmoscow.ru/ru/stores --> redirection forbidden: https://dunkindonutsmoscow.ru/ru/stores -> http://dunkindonutsmoscow.ru/cafe/ --> 28-11-2021_16:44:38
+http://dvinin-ayu.blizko.ru/ --> 403 Forbidden --> 28-11-2021_16:44:42
+http://dvinskoepodvore.business.site/ --> 404 Not Found --> 28-11-2021_16:44:42
+http://dvprodukt.ru/ --> Failed to open TCP connection to dvprodukt.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:44:47
+http://eat2fit.ru/ --> 403 Forbidden --> 28-11-2021_16:44:55
+http://eatbakery.ru/ --> HTTP redirection loop: http://eatbakery.ru/ --> 28-11-2021_16:44:56
+http://eatfruit.spb.ru/ --> Failed to open TCP connection to eatfruit.spb.ru:80 (Connection refused - connect(2) for "eatfruit.spb.ru" port 80) --> 28-11-2021_16:44:58
+http://eatwell2019.com/ --> Failed to open TCP connection to eatwell2019.com:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:45:00
+http://eclertika.ru/ --> Failed to open TCP connection to eclertika.ru:80 (getaddrinfo: Temporary failure in name resolution) --> 28-11-2021_16:45:01
+http://ecobakaleya.ru/ --> Failed to open TCP connection to ecobakaleya.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:45:01
+http://ecobazar007.ru/ --> Failed to open TCP connection to ecobazar007.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_16:45:02
+http://03chocolate.nethouse.ru/ --> redirection forbidden: https://03chocolate.nethouse.ru/ -> http://03chocolate.ru/ --> 28-11-2021_17:08:45
+http://100lichnyi.ru/ --> Failed to open TCP connection to 100lichnyi.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_17:08:48
+http://100zakusok.ru/ --> Failed to open TCP connection to 100zakusok.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_17:08:49
+http://101ud.ru/ --> Failed to open TCP connection to 101ud.ru:80 (getaddrinfo: Temporary failure in name resolution) --> 28-11-2021_17:08:50
+http://12prazdnikov.ru/ --> Failed to open TCP connection to 12prazdnikov.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_17:08:51
+http://12месяцев-нижний-новгород.рф/ --> SSL_connect returned=1 errno=0 state=error: certificate verify failed (unable to get local issuer certificate) --> 28-11-2021_17:08:52
+http://12месяцев-новосибирск.рф/ --> SSL_connect returned=1 errno=0 state=error: certificate verify failed (unable to get local issuer certificate) --> 28-11-2021_17:08:52
+http://1612.ru/ --> 404 Not Found --> 28-11-2021_17:08:52
+http://1xleb.ru/gde-kupit/ --> 404 Not Found --> 28-11-2021_17:09:12
+http://20.ratimir.ru/ --> Failed to open TCP connection to 20.ratimir.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_17:09:12
+http://202035.pulscen.ru/ --> 403 Forbidden --> 28-11-2021_17:09:15
+http://21sokol.ru/ --> 403 Forbidden --> 28-11-2021_17:09:16
+http://24cake.ru/ --> 403 Forbidden --> 28-11-2021_17:09:18
+http://2524.biznet.su/ --> Failed to open TCP connection to 2524.biznet.su:80 (getaddrinfo: Name or service not known) --> 28-11-2021_17:09:34
+http://2geese.ru/ --> Failed to open TCP connection to 2geese.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_17:09:58
+http://2gusya.ru/ --> Failed to open TCP connection to 2gusya.ru:80 (getaddrinfo: Temporary failure in name resolution) --> 28-11-2021_17:09:58
+http://300-000.ru/ --> 503 Service Unavailable --> 28-11-2021_17:09:59
+http://3257171.ru/ --> Failed to open TCP connection to 3257171.ru:80 (getaddrinfo: Temporary failure in name resolution) --> 28-11-2021_17:09:59
+http://33pingvina.ru/torgovaya_set/torgovye_tochki_33_pingvina/centralnyj_federalnyj_okrug/staryj_oskol/letnyaya_telezhka1/ --> 404 Not Found --> 28-11-2021_17:10:03
+http://33pingvina.ru/torgovaya_set/torgovye_tochki_33_pingvina/dalnevostochnyj_federalnyj_okrug/habarovsk/kinoteatr_oskar/ --> 404 Not Found --> 28-11-2021_17:10:05
+http://33pingvina.ru/torgovaya_set/torgovye_tochki_33_pingvina/privolzhskij_federalnyj_okrug/sarov/tc_rio/ --> 404 Not Found --> 28-11-2021_17:10:05
+http://33piroga.com/ --> Failed to open TCP connection to 33piroga.com:80 (getaddrinfo: Name or service not known) --> 28-11-2021_17:10:05
+http://341737.ru/ --> Failed to open TCP connection to 341737.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_17:10:08
+http://365detox.ru/ --> end of file reached --> 28-11-2021_17:10:15
+http://3dtour82.ru/ --> 403 Forbidden --> 28-11-2021_17:10:18
+http://43kedr.ru/ --> Failed to open TCP connection to 43kedr.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_17:10:19
+http://4opexa.ru/ --> Failed to open TCP connection to 4opexa.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_17:10:19
+http://4taun.ru/ --> Failed to open TCP connection to 4taun.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_17:10:19
+http://03chocolate.nethouse.ru/ --> redirection forbidden: https://03chocolate.nethouse.ru/ -> http://03chocolate.ru/ --> 28-11-2021_17:12:21
+http://100lichnyi.ru/ --> Failed to open TCP connection to 100lichnyi.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_17:12:23
+http://100zakusok.ru/ --> Failed to open TCP connection to 100zakusok.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_17:12:23
+http://101ud.ru/ --> Failed to open TCP connection to 101ud.ru:80 (getaddrinfo: Temporary failure in name resolution) --> 28-11-2021_17:12:24
+http://12prazdnikov.ru/ --> Failed to open TCP connection to 12prazdnikov.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_17:12:24
+http://12месяцев-нижний-новгород.рф/ --> SSL_connect returned=1 errno=0 state=error: certificate verify failed (unable to get local issuer certificate) --> 28-11-2021_17:12:25
+http://12месяцев-новосибирск.рф/ --> SSL_connect returned=1 errno=0 state=error: certificate verify failed (unable to get local issuer certificate) --> 28-11-2021_17:12:25
+http://1612.ru/ --> 404 Not Found --> 28-11-2021_17:12:25
+http://1xleb.ru/gde-kupit/ --> 404 Not Found --> 28-11-2021_17:12:34
+http://20.ratimir.ru/ --> Failed to open TCP connection to 20.ratimir.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_17:12:34
+http://202035.pulscen.ru/ --> 403 Forbidden --> 28-11-2021_17:12:37
+http://21sokol.ru/ --> 403 Forbidden --> 28-11-2021_17:12:37
+http://24cake.ru/ --> 403 Forbidden --> 28-11-2021_17:12:40
+http://2524.biznet.su/ --> Failed to open TCP connection to 2524.biznet.su:80 (getaddrinfo: Name or service not known) --> 28-11-2021_17:12:46
+http://2geese.ru/ --> Failed to open TCP connection to 2geese.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_17:12:48
+http://2gusya.ru/ --> Failed to open TCP connection to 2gusya.ru:80 (getaddrinfo: Temporary failure in name resolution) --> 28-11-2021_17:12:48
+http://300-000.ru/ --> 503 Service Unavailable --> 28-11-2021_17:12:48
+http://3257171.ru/ --> Failed to open TCP connection to 3257171.ru:80 (getaddrinfo: Temporary failure in name resolution) --> 28-11-2021_17:12:48
+http://33pingvina.ru/torgovaya_set/torgovye_tochki_33_pingvina/centralnyj_federalnyj_okrug/staryj_oskol/letnyaya_telezhka1/ --> 404 Not Found --> 28-11-2021_17:12:52
+http://33pingvina.ru/torgovaya_set/torgovye_tochki_33_pingvina/dalnevostochnyj_federalnyj_okrug/habarovsk/kinoteatr_oskar/ --> 404 Not Found --> 28-11-2021_17:12:53
+http://33pingvina.ru/torgovaya_set/torgovye_tochki_33_pingvina/privolzhskij_federalnyj_okrug/sarov/tc_rio/ --> 404 Not Found --> 28-11-2021_17:12:54
+http://33piroga.com/ --> Failed to open TCP connection to 33piroga.com:80 (getaddrinfo: Name or service not known) --> 28-11-2021_17:12:54
+http://341737.ru/ --> Failed to open TCP connection to 341737.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_17:12:57
+http://365detox.ru/ --> end of file reached --> 28-11-2021_17:13:03
+http://3dtour82.ru/ --> 403 Forbidden --> 28-11-2021_17:13:06
+http://43kedr.ru/ --> Failed to open TCP connection to 43kedr.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_17:13:06
+http://4opexa.ru/ --> Failed to open TCP connection to 4opexa.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_17:13:07
+http://4taun.ru/ --> Failed to open TCP connection to 4taun.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_17:13:07
+http://5cup.ru/ --> Failed to open TCP connection to 5cup.ru:80 (getaddrinfo: Temporary failure in name resolution) --> 28-11-2021_17:13:10
+http://62svetofor.ru/ --> Failed to open TCP connection to 62svetofor.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_17:13:10
+http://6-vkusov.ru/ --> SSL_connect returned=1 errno=0 state=error: certificate verify failed (unable to get local issuer certificate) --> 28-11-2021_17:13:16
+http://7chashek.com/ --> Failed to open TCP connection to 7chashek.com:80 (getaddrinfo: Name or service not known) --> 28-11-2021_17:13:17
+http://7kofenanedele.ru/ --> Failed to open TCP connection to 7kofenanedele.ru:80 (getaddrinfo: Temporary failure in name resolution) --> 28-11-2021_17:13:18
+http://901-666.ru/ --> Failed to open TCP connection to 901-666.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_17:13:26
+http://9ostrovov.ru/ --> redirection forbidden: https://9ostrovov.ru/ -> http://www.9ostrovov.ru/ --> 28-11-2021_17:13:30
+http://abiproduct.ru/ --> SSL_connect returned=1 errno=0 state=error: certificate verify failed (unable to get local issuer certificate) --> 28-11-2021_17:13:33
+http://absolyut64.ru/ --> Failed to open TCP connection to absolyut64.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_17:13:34
+http://abugosh.ru/ --> HTTP redirection loop: http://abugosh.ru/ --> 28-11-2021_17:13:34
+http://adamant154.ru/ --> 403 Forbidden --> 28-11-2021_17:13:40
+http://adamant-nk.ru/ --> Failed to open TCP connection to adamant-nk.ru:80 (getaddrinfo: No address associated with hostname) --> 28-11-2021_17:13:40
+http://adept.ru/ooo-novgorodskiy-bekon/ --> 404 Not Found --> 28-11-2021_17:13:41
+http://adress-happy.ru/ --> end of file reached --> 28-11-2021_17:13:46
+http://adriafood.ru/ --> Failed to open TCP connection to adriafood.ru:80 (getaddrinfo: Temporary failure in name resolution) --> 28-11-2021_17:13:47
+http://aelita.elink48.ru/ --> execution expired --> 28-11-2021_17:14:47
+http://aevip.ru/ --> Failed to open TCP connection to aevip.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_17:14:48
+http://afanasevmarket.ru/ --> 404 Not Found --> 28-11-2021_17:14:48
+http://af-optina.com/buy --> 404 Not Found --> 28-11-2021_17:14:50
+http://agama.shop/ --> HTTP redirection loop: http://agama.shop/ --> 28-11-2021_17:14:51
+http://agriko-kolh59d.pulscen.ru/ --> 403 Forbidden --> 28-11-2021_17:14:54
+http://agri-products-supplier-and-manufacturer-79.business.site/ --> 404 Not Found --> 28-11-2021_17:14:55
+http://agro-bim.pulscen.ru/ --> 403 Forbidden --> 28-11-2021_17:14:56
+http://agrogs.ru/ --> Failed to open TCP connection to agrogs.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_17:15:15
+http://agromurman.ru/ --> Failed to open TCP connection to agromurman.ru:80 (getaddrinfo: No address associated with hostname) --> 28-11-2021_17:15:21
+http://agromurman.ru/trade --> Failed to open TCP connection to agromurman.ru:80 (getaddrinfo: No address associated with hostname) --> 28-11-2021_17:15:21
+http://agromurman.ru/trade/ --> Failed to open TCP connection to agromurman.ru:80 (getaddrinfo: No address associated with hostname) --> 28-11-2021_17:15:21
+http://agroprompark-kazan.ru/ --> execution expired --> 28-11-2021_17:16:21
+http://agrotom.ru/ --> 403 Forbidden --> 28-11-2021_17:16:23
+http://03chocolate.nethouse.ru/ --> redirection forbidden: https://03chocolate.nethouse.ru/ -> http://03chocolate.ru/ --> 28-11-2021_17:24:50
+http://100lichnyi.ru/ --> Failed to open TCP connection to 100lichnyi.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_17:24:52
+http://100zakusok.ru/ --> Failed to open TCP connection to 100zakusok.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_17:24:53
+http://101ud.ru/ --> Failed to open TCP connection to 101ud.ru:80 (getaddrinfo: Temporary failure in name resolution) --> 28-11-2021_17:24:54
+http://12prazdnikov.ru/ --> Failed to open TCP connection to 12prazdnikov.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_17:24:55
+http://12месяцев-нижний-новгород.рф/ --> SSL_connect returned=1 errno=0 state=error: certificate verify failed (unable to get local issuer certificate) --> 28-11-2021_17:24:55
+http://12месяцев-новосибирск.рф/ --> SSL_connect returned=1 errno=0 state=error: certificate verify failed (unable to get local issuer certificate) --> 28-11-2021_17:24:55
+http://1612.ru/ --> 404 Not Found --> 28-11-2021_17:24:55
+http://1xleb.ru/gde-kupit/ --> 404 Not Found --> 28-11-2021_17:25:07
+http://20.ratimir.ru/ --> Failed to open TCP connection to 20.ratimir.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_17:25:07
+http://202035.pulscen.ru/ --> 403 Forbidden --> 28-11-2021_17:25:10
+http://21sokol.ru/ --> 403 Forbidden --> 28-11-2021_17:25:10
+http://24cake.ru/ --> 403 Forbidden --> 28-11-2021_17:25:15
+http://2524.biznet.su/ --> Failed to open TCP connection to 2524.biznet.su:80 (getaddrinfo: Name or service not known) --> 28-11-2021_17:25:21
+http://2geese.ru/ --> Failed to open TCP connection to 2geese.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_17:25:25
+http://2gusya.ru/ --> Failed to open TCP connection to 2gusya.ru:80 (getaddrinfo: Temporary failure in name resolution) --> 28-11-2021_17:25:25
+http://300-000.ru/ --> 503 Service Unavailable --> 28-11-2021_17:25:26
+http://3257171.ru/ --> Failed to open TCP connection to 3257171.ru:80 (getaddrinfo: Temporary failure in name resolution) --> 28-11-2021_17:25:26
+http://33pingvina.ru/torgovaya_set/torgovye_tochki_33_pingvina/centralnyj_federalnyj_okrug/staryj_oskol/letnyaya_telezhka1/ --> 404 Not Found --> 28-11-2021_17:25:30
+http://33pingvina.ru/torgovaya_set/torgovye_tochki_33_pingvina/dalnevostochnyj_federalnyj_okrug/habarovsk/kinoteatr_oskar/ --> 404 Not Found --> 28-11-2021_17:25:30
+http://33pingvina.ru/torgovaya_set/torgovye_tochki_33_pingvina/privolzhskij_federalnyj_okrug/sarov/tc_rio/ --> 404 Not Found --> 28-11-2021_17:25:31
+http://33piroga.com/ --> Failed to open TCP connection to 33piroga.com:80 (getaddrinfo: Name or service not known) --> 28-11-2021_17:25:31
+http://341737.ru/ --> Failed to open TCP connection to 341737.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_17:25:34
+http://365detox.ru/ --> end of file reached --> 28-11-2021_17:25:41
+http://3dtour82.ru/ --> 403 Forbidden --> 28-11-2021_17:25:44
+http://43kedr.ru/ --> Failed to open TCP connection to 43kedr.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_17:25:44
+http://4opexa.ru/ --> Failed to open TCP connection to 4opexa.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_17:25:45
+http://4taun.ru/ --> Failed to open TCP connection to 4taun.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_17:25:45
+http://5cup.ru/ --> Failed to open TCP connection to 5cup.ru:80 (getaddrinfo: Temporary failure in name resolution) --> 28-11-2021_17:25:48
+http://62svetofor.ru/ --> Failed to open TCP connection to 62svetofor.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_17:25:49
+http://6-vkusov.ru/ --> SSL_connect returned=1 errno=0 state=error: certificate verify failed (unable to get local issuer certificate) --> 28-11-2021_17:25:56
+http://7chashek.com/ --> Failed to open TCP connection to 7chashek.com:80 (getaddrinfo: Name or service not known) --> 28-11-2021_17:25:57
+http://7kofenanedele.ru/ --> Failed to open TCP connection to 7kofenanedele.ru:80 (getaddrinfo: Temporary failure in name resolution) --> 28-11-2021_17:25:58
+http://901-666.ru/ --> Failed to open TCP connection to 901-666.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_17:26:08
+http://9ostrovov.ru/ --> redirection forbidden: https://9ostrovov.ru/ -> http://www.9ostrovov.ru/ --> 28-11-2021_17:26:12
+http://abiproduct.ru/ --> SSL_connect returned=1 errno=0 state=error: certificate verify failed (unable to get local issuer certificate) --> 28-11-2021_17:26:15
+http://absolyut64.ru/ --> Failed to open TCP connection to absolyut64.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_17:26:15
+http://adamant154.ru/ --> 403 Forbidden --> 28-11-2021_17:26:21
+http://adamant-nk.ru/ --> Failed to open TCP connection to adamant-nk.ru:80 (getaddrinfo: No address associated with hostname) --> 28-11-2021_17:26:21
+http://adept.ru/ooo-novgorodskiy-bekon/ --> 404 Not Found --> 28-11-2021_17:26:22
+http://adress-happy.ru/ --> end of file reached --> 28-11-2021_17:26:26
+http://adriafood.ru/ --> Failed to open TCP connection to adriafood.ru:80 (getaddrinfo: Temporary failure in name resolution) --> 28-11-2021_17:26:26
+http://aelita.elink48.ru/ --> execution expired --> 28-11-2021_17:27:26
+http://aevip.ru/ --> Failed to open TCP connection to aevip.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_17:27:27
+http://afanasevmarket.ru/ --> 404 Not Found --> 28-11-2021_17:27:28
+http://af-optina.com/buy --> 404 Not Found --> 28-11-2021_17:27:30
+http://agriko-kolh59d.pulscen.ru/ --> 403 Forbidden --> 28-11-2021_17:27:33
+http://agri-products-supplier-and-manufacturer-79.business.site/ --> 404 Not Found --> 28-11-2021_17:27:34
+http://agro-bim.pulscen.ru/ --> 403 Forbidden --> 28-11-2021_17:27:35
+http://agrogs.ru/ --> Failed to open TCP connection to agrogs.ru:80 (getaddrinfo: Name or service not known) --> 28-11-2021_17:28:55
+http://agromurman.ru/ --> Failed to open TCP connection to agromurman.ru:80 (getaddrinfo: No address associated with hostname) --> 28-11-2021_17:28:59
+http://agromurman.ru/trade --> Failed to open TCP connection to agromurman.ru:80 (getaddrinfo: No address associated with hostname) --> 28-11-2021_17:28:59
+http://agromurman.ru/trade/ --> Failed to open TCP connection to agromurman.ru:80 (getaddrinfo: No address associated with hostname) --> 28-11-2021_17:28:59
+http://agroprompark-kazan.ru/ --> execution expired --> 28-11-2021_17:29:59
+http://agrotom.ru/ --> 403 Forbidden --> 28-11-2021_17:30:01
+http://agrotom.ru/ --> 403 Forbidden --> 28-11-2021_17:32:20
+http://agrotom.ru/ --> 403 Forbidden --> 28-11-2021_17:34:40
+http://agrotom.ru/ --> 403 Forbidden --> 28-11-2021_17:34:57
+http://agrotom.ru/ --> 403 Forbidden --> 28-11-2021_17:35:09
+http://agrotom.ru/ --> 403 Forbidden --> 28-11-2021_17:35:16
+http://agrotom.ru/ --> 403 Forbidden --> 28-11-2021_17:36:05
+http://agrotom.ru/ --> 403 Forbidden --> 28-11-2021_17:36:12
+http://agrotom.ru/ --> 403 Forbidden --> 28-11-2021_17:36:25
+http://agrotom.ru/ --> 403 Forbidden --> 28-11-2021_17:36:35
+http://agrotom.ru/ --> 403 Forbidden --> 28-11-2021_17:36:54
+http://agrotom.ru/ --> 403 Forbidden --> 28-11-2021_17:37:03
+http://agrotom.ru/ --> 403 Forbidden --> 28-11-2021_17:38:05
+http://agrotom.ru/ --> 403 Forbidden --> 28-11-2021_17:38:19
+http://agrotom.ru/ --> 403 Forbidden --> 28-11-2021_17:38:50
+http://agrotom.ru/ --> 403 Forbidden --> 07-12-2021_22:39:26
+http://agrotom.ru/ --> 403 Forbidden --> 07-12-2021_22:39:49
+http://agrotom.ru/ --> 403 Forbidden --> 07-12-2021_22:45:36
+http://agrotom.ru/ --> 403 Forbidden --> 07-12-2021_22:46:15
+http://agrotom.ru/ --> 403 Forbidden --> 07-12-2021_22:46:44
+http://agrotom.ru/ --> 403 Forbidden --> 07-12-2021_22:47:12
+http://agrotom.ru/ --> 403 Forbidden --> 07-12-2021_22:59:49
+http://agrotom.ru/ --> 403 Forbidden --> 07-12-2021_23:00:13
+http://agrotom.ru/ --> 403 Forbidden --> 07-12-2021_23:00:34
+http://agrotom.ru/ --> 403 Forbidden --> 07-12-2021_23:00:59
+http://agrotom.ru/ --> 403 Forbidden --> 07-12-2021_23:04:15
+http://agrotorg.org/ --> code converter not found (UTF-8 to utf8) --> 07-12-2021_23:04:15
+http://agrotrade.ru.com/ --> code converter not found (UTF-8 to utf8) --> 07-12-2021_23:04:15
+http://agrotom.ru/ --> 403 Forbidden --> 07-12-2021_23:05:18
+http://agrotom.ru/ --> 403 Forbidden --> 07-12-2021_23:05:54
+http://agrotom.ru/ --> 403 Forbidden --> 07-12-2021_23:08:56
+http://agrotom.ru/ --> 403 Forbidden --> 07-12-2021_23:10:18
+http://agrotom.ru/ --> 403 Forbidden --> 07-12-2021_23:10:59
